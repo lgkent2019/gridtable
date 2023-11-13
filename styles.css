@@ -1,0 +1,20 @@
+/*CSS Document for therapist caseload table */
+
+table{
+	boder-collaps: collapse;
+	width: 70%;
+	margin: auto;
+}
+td, th{
+	border: 2px solid #000000;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #8ecae6;
+}
+
+caption{
+	font-weight: bold;
+	font-size: 1.5em;
+}
